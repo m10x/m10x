@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Take a look @:
+- my blog [m10x.de](https://www.m10x.de/)
+- my [linkedin](https://www.linkedin.com/in/maximilian-hildebrand-95b43a142/) / [xing](https://www.xing.com/profile/Maximilian_Hildebrand2/)
+- my [Web Cache Vulnerability Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
 <!--
 **m10x/m10x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

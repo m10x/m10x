@@ -7,3 +7,5 @@ Take a look @:
 - [TInjA – the Template INJection Analyzer](https://github.com/Hackmanit/TInjA)
 - the [Template Injection Playground](https://github.com/Hackmanit/template-injection-playground)
 - the [Template Injection Cheatsheet Table](https://github.com/Hackmanit/template-injection-table)
+- [midi2key-ng](https://github.com/m10x/midi2key-ng)
+ - use the buttons/knobs/sliders of a midi controller to control your audio/send hotkey, ...
